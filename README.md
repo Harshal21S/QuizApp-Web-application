@@ -4,7 +4,7 @@ A dynamic and interactive quiz application.
 
 # Link
 
-http://127.0.0.1:3000/Quizapp%20Master/index.html
+[Click Here For Live View](http://127.0.0.1:3000/Quizapp%20Master/index.html)
 
 ## Overview
 
